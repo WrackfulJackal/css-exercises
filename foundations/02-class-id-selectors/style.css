@@ -1,0 +1,18 @@
+/* style.css */
+
+.primary {
+    background-color: hsl(304 100 88);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+.cooler {
+    font-size: 24px;
+}
+#first {
+    color:hsl(239 100 50);
+    font-size: 36px;
+}
+#second {
+    background-color: hsl(125 100 75);
+    font-size: 24px;
+    font-weight: bold;
+}
